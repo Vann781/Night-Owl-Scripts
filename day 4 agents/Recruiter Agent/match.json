@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-11T09:17:17.352703+00:00",
+  "role": "Agentic AI Developer",
+  "required_keywords": [
+    "agentic ai",
+    "aws",
+    "ci/cd",
+    "crewai",
+    "docker",
+    "langchain",
+    "langgraph",
+    "llm",
+    "python",
+    "rag",
+    "vector database"
+  ],
+  "must_have": [
+    "agentic ai",
+    "python"
+  ],
+  "matched_count": 1,
+  "candidates": [
+    {
+      "id": "C001",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "current_role": "Mobile + AI Engineer",
+      "experience_years": "5",
+      "location": "Bangalore",
+      "skills": [
+        "agentic ai",
+        "aws",
+        "ci/cd",
+        "docker",
+        "flutter",
+        "java",
+        "langchain",
+        "python"
+      ],
+      "matched_keywords": [
+        "agentic ai",
+        "aws",
+        "ci/cd",
+        "docker",
+        "langchain",
+        "python"
+      ],
+      "missing_must_have": [],
+      "match_score": 0.55,
+      "qualifies": true,
+      "verdict": "MATCH"
+    }
+  ]
+}

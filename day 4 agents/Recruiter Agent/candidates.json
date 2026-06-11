@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "id": "C001",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "current_role": "Mobile + AI Engineer",
+      "experience_years": 5,
+      "location": "Bangalore",
+      "skills": ["Flutter", "Agentic AI", "AWS", "Docker", "CI/CD", "Java", "Python", "LangChain"],
+      "summary": "Ships autonomous agents and cross-platform apps. Loves wiring LLMs into real products."
+    },
+    {
+      "id": "C002",
+      "name": "Priya Nair",
+      "email": "priya.nair@example.com",
+      "current_role": "Frontend Developer",
+      "experience_years": 3,
+      "location": "Kochi",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Figma", "UI/UX"],
+      "summary": "Pixel-perfect UI engineer focused on design systems and accessible web apps."
+    },
+    {
+      "id": "C003",
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta@example.com",
+      "current_role": "Data Scientist",
+      "experience_years": 4,
+      "location": "Pune",
+      "skills": ["Python", "Machine Learning", "TensorFlow", "RAG", "LLM", "Pandas", "SQL"],
+      "summary": "Builds ML models and RAG pipelines. Strong on data, lighter on agent orchestration."
+    }
+  ]
+}

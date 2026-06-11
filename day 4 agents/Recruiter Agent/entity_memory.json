@@ -1,0 +1,201 @@
+{
+  "updated_at": "2026-06-11T09:17:17.353384+00:00",
+  "entity_count": 4,
+  "entities": {
+    "role::Agentic AI Developer": {
+      "type": "role",
+      "attributes": {
+        "title": "Agentic AI Developer",
+        "must_have": [
+          "agentic ai",
+          "python"
+        ],
+        "good_to_have": [
+          "aws",
+          "ci/cd",
+          "docker",
+          "langchain",
+          "llm",
+          "rag",
+          "vector database"
+        ],
+        "required": [
+          "agentic ai",
+          "aws",
+          "ci/cd",
+          "crewai",
+          "docker",
+          "langchain",
+          "langgraph",
+          "llm",
+          "python",
+          "rag",
+          "vector database"
+        ]
+      },
+      "observations": [
+        {
+          "at": "2026-06-11T09:05:33.106537+00:00",
+          "note": "Opened a search for this role."
+        },
+        {
+          "at": "2026-06-11T09:17:16.746263+00:00",
+          "note": "Opened a search for this role."
+        }
+      ],
+      "first_seen": "2026-06-11T09:05:33.106537+00:00",
+      "last_seen": "2026-06-11T09:17:16.746263+00:00",
+      "seen_count": 2
+    },
+    "candidate::C001": {
+      "type": "candidate",
+      "attributes": {
+        "id": "C001",
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@example.com",
+        "current_role": "Mobile + AI Engineer",
+        "experience_years": "5",
+        "location": "Bangalore",
+        "skills_raw": [
+          "Flutter",
+          "Agentic AI",
+          "AWS",
+          "Docker",
+          "CI/CD",
+          "Java",
+          "Python",
+          "LangChain"
+        ],
+        "skills": [
+          "agentic ai",
+          "aws",
+          "ci/cd",
+          "docker",
+          "flutter",
+          "java",
+          "langchain",
+          "python"
+        ]
+      },
+      "observations": [
+        {
+          "at": "2026-06-11T09:05:33.106634+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:05:33.106714+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MATCH (score 55%)."
+        },
+        {
+          "at": "2026-06-11T09:17:16.898757+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:17:17.351952+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MATCH (score 55%)."
+        }
+      ],
+      "first_seen": "2026-06-11T09:05:33.106634+00:00",
+      "last_seen": "2026-06-11T09:17:17.351952+00:00",
+      "seen_count": 4
+    },
+    "candidate::C002": {
+      "type": "candidate",
+      "attributes": {
+        "id": "C002",
+        "name": "Priya Nair",
+        "email": "priya.nair@example.com",
+        "current_role": "Frontend Developer",
+        "experience_years": "3",
+        "location": "Kochi",
+        "skills_raw": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Figma",
+          "UI/UX"
+        ],
+        "skills": [
+          "css",
+          "figma",
+          "html",
+          "javascript",
+          "react",
+          "ui/ux"
+        ]
+      },
+      "observations": [
+        {
+          "at": "2026-06-11T09:05:33.106661+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:05:33.106726+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MISSING MUST-HAVE (score 0%)."
+        },
+        {
+          "at": "2026-06-11T09:17:17.049835+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:17:17.351985+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MISSING MUST-HAVE (score 0%)."
+        }
+      ],
+      "first_seen": "2026-06-11T09:05:33.106661+00:00",
+      "last_seen": "2026-06-11T09:17:17.351985+00:00",
+      "seen_count": 4
+    },
+    "candidate::C003": {
+      "type": "candidate",
+      "attributes": {
+        "id": "C003",
+        "name": "Rohan Mehta",
+        "email": "rohan.mehta@example.com",
+        "current_role": "Data Scientist",
+        "experience_years": "4",
+        "location": "Pune",
+        "skills_raw": [
+          "Python",
+          "Machine Learning",
+          "TensorFlow",
+          "RAG",
+          "LLM",
+          "Pandas",
+          "SQL"
+        ],
+        "skills": [
+          "llm",
+          "machine learning",
+          "pandas",
+          "python",
+          "rag",
+          "sql",
+          "tensorflow"
+        ]
+      },
+      "observations": [
+        {
+          "at": "2026-06-11T09:05:33.106683+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:05:33.106735+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MISSING MUST-HAVE (score 27%)."
+        },
+        {
+          "at": "2026-06-11T09:17:17.200960+00:00",
+          "note": "Indexed candidate skills."
+        },
+        {
+          "at": "2026-06-11T09:17:17.351995+00:00",
+          "note": "Evaluated for 'Agentic AI Developer': MISSING MUST-HAVE (score 27%)."
+        }
+      ],
+      "first_seen": "2026-06-11T09:05:33.106683+00:00",
+      "last_seen": "2026-06-11T09:17:17.351995+00:00",
+      "seen_count": 4
+    }
+  }
+}

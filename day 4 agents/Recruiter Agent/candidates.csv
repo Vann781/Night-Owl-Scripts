@@ -1,0 +1,4 @@
+id,name,email,current_role,experience_years,location,skills
+C001,Aarav Sharma,aarav.sharma@example.com,Mobile + AI Engineer,5,Bangalore,Flutter;Agentic AI;AWS;Docker;CI/CD;Java;Python;LangChain
+C002,Priya Nair,priya.nair@example.com,Frontend Developer,3,Kochi,HTML;CSS;JavaScript;React;Figma;UI/UX
+C003,Rohan Mehta,rohan.mehta@example.com,Data Scientist,4,Pune,Python;Machine Learning;TensorFlow;RAG;LLM;Pandas;SQL

@@ -1,0 +1,26 @@
+Job Title: Agentic AI Developer
+Company: Nimbus Labs
+Location: Remote / Bangalore
+Type: Full-time
+
+About the Role
+--------------
+We are looking for an Agentic AI Developer to design, build and ship
+autonomous AI agents that get real work done. You will architect
+multi-agent systems, wire up LLMs with memory, and deploy them to
+production. Think reasoning loops, tool use, and agents that remember.
+
+Must-Have Skills: Agentic AI, Python
+Good-to-Have Skills: LangChain, RAG, Docker, AWS, CI/CD, Vector Database, LLM
+
+Responsibilities
+----------------
+- Build and orchestrate AI agents with short-term and entity memory
+- Integrate LLMs and RAG pipelines into agent workflows
+- Containerize agent services with Docker and deploy on AWS
+- Maintain CI/CD pipelines for fast, safe shipping
+
+Nice to see
+-----------
+- Open-source agent projects
+- Experience with LangGraph or CrewAI
